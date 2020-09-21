@@ -1,3 +1,7 @@
+# Testing script for DDS
+
+python3 ./3d_box.py -d ssd1351 -i spi --width 128 --height 128
+
 `luma.core <https://github.com/rm-hull/luma.core>`__ **|**
 `luma.docs <https://github.com/rm-hull/luma.docs>`__ **|**
 `luma.emulator <https://github.com/rm-hull/luma.emulator>`__ **|**
